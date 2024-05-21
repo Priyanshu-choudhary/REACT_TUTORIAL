@@ -8,7 +8,6 @@
 
 .button:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
-  background-color: rgb(207, 46, 194);
   will-change: filter;
   transition: filter 300ms;
 }

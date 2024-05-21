@@ -1,11 +1,10 @@
-import Counter from "./Counter/Counter"
-
+import Game from "./game/Game";
 function App() {
+
   return (
     <>
-  
-    <Counter/>
-     
+     <Game/>
+       
     </>
   )
 }
